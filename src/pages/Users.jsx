@@ -1,3 +1,4 @@
+import "./Users.css"
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import { API_URL } from '../utils';

@@ -1,32 +1,25 @@
 {
-    "users": [
-        {
-            "id": "1",
-            "nombre": "Juan",
-            "apellido": "Pérez",
-            "estado": "bloqueado",
-            "fechaCreacion": "2023-10-10"
-        },
-        {
-            "id": "2",
-            "nombre": "Ana",
-            "apellido": "Gómez",
-            "estado": "pendiente",
-            "fechaCreacion": "2023-10-08"
-        },
-        {
-            "id": "cbb2",
-            "nombre": "santiago",
-            "apellido": "yanzon",
-            "estado": "nuevo",
-            "fechaCreacion": "2024-10-15"
-        },
-        {
-            "id": "fb9a",
-            "nombre": "santiago",
-            "apellido": "yanzon",
-            "estado": "bloqueado",
-            "fechaCreacion": "2024-10-15"
-        }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "estado": "bloqueado",
+      "fechaCreacion": "2023-10-10"
+    },
+    {
+      "id": "2",
+      "nombre": "Ana",
+      "apellido": "Gómez",
+      "estado": "pendiente",
+      "fechaCreacion": "2023-10-08"
+    },
+    {
+      "id": "cbb2",
+      "nombre": "santiago",
+      "apellido": "yanzon",
+      "estado": "nuevo",
+      "fechaCreacion": "2024-10-15"
+    }
+  ]
 }
